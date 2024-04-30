@@ -1,2 +1,2 @@
-# codsoft3
-new repo
+# CODSOFT3
+Calculator
